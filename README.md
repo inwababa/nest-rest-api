@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+This is a basic CRUD rest API was developed using node js, Typescript, Nest js frame work and NoSQL as the database.
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
